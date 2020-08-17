@@ -59,3 +59,11 @@ it's still a reasonable choice.
 
  makes it easy to retrieve basic content like a description, title, keywords, or a list of images from a webpage 
  
+ # uses of web scraping
+ ### Financial statistics
+ ### Equity research
+ ### Goods and services price comparison
+ ### Consumer analysis
+ ### Search Engine Optimization
+ ### Competitor analysis
+ 
